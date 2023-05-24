@@ -3,6 +3,19 @@
 funny-test的创建是希望能聚拢一群“臭味相投”的人；
 
 大家一起构建一些有用的自动化测试工具，不断探索自动化测试领域的前沿技术，解决自动化测试各领域的难点。
+
+```
+----------------------------- translate -----------------------------
+````
+
+The creation of funny-test aims to gather a group of like-minded people;
+
+Let's build some useful automation testing tools together, continuously explore cutting-edge technologies in the field of automation testing, and solve the difficulties in various fields of automation testing.
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
