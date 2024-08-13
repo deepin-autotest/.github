@@ -1,6 +1,5 @@
 ## Hi 来了~ 👋
-
-Funny-Dream 是希望能聚拢一群“臭味相投”的人，一起做一些好玩的项目。
+linuxdeepin-QAeggs 是 linuxdeepin 组织的自动化测试项目孵化组织，成功孵化的项目会考虑迁移到 linuxdeepin 组织下。
 
 
 
