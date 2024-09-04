@@ -1,5 +1,6 @@
 ## Hi 来了~ 👋
-linuxdeepin-QAeggs 是 linuxdeepin 组织的自动化测试项目孵化组织，成功孵化的项目会考虑迁移到 linuxdeepin 组织下。
+
+作为 https://gitee.com/deepin-autotest 组织的备份
 
 
 
