@@ -1,6 +1,6 @@
 ## Hi 来了~ 👋
 
-作为 https://gitee.com/deepin-autotest 组织的备份
+这个组织暂时不用了，由于各种原因，我们将根据地迁移到了 Gitee 上 [deepin-autotest](https://gitee.com/deepin-autotest/)，欢迎您来这里玩。
 
 
 
